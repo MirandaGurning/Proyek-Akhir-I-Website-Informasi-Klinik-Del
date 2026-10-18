@@ -1,0 +1,425 @@
+# Translation of Themes - Church FSE in Indonesian
+# This file is distributed under the same license as the Themes - Church FSE package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-07 06:40:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Church FSE\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Church FSE is a modern Full Site Editing WordPress theme perfect for churches and religious organizations. Create an engaging website with ready-to-use patterns for sermons, events, ministries, and donations. The theme features a mobile-optimized design, live streaming support, and a prayer request system. Built with performance and accessibility in mind, Church FSE offers extensive customization through WordPress's native block editor."
+msgstr "Church FSE adalah tema WordPress Full Site Editing modern yang sempurna untuk gereja dan organisasi keagamaan. Buat situs web yang menarik dengan pola siap pakai untuk khotbah, acara, pelayanan, dan donasi. Tema ini menampilkan desain yang dioptimalkan untuk perangkat ponsel, dukungan siaran langsung, dan sistem permohonan doa. Dibangun dengan mempertimbangkan performa dan aksesibilitas, Church FSE menawarkan kustomisasi ekstensif melalui editor blok bawaaan WordPress."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Church FSE"
+msgstr "Church FSE"
+
+#: styles/violet.json
+msgctxt "Style variation name"
+msgid "Violet"
+msgstr "Ungu"
+
+#: styles/forest.json
+msgctxt "Style variation name"
+msgid "Forest"
+msgstr "Hutan"
+
+#: styles/charcoal.json
+msgctxt "Style variation name"
+msgid "Charcoal"
+msgstr "Charcoal"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 5 Columns"
+msgstr "Variasi Footer - 5 Kolom"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 4 Columns"
+msgstr "Variasi Footer - 4 Kolom"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - 3 Columns"
+msgstr "Variasi Footer - 3 Kolom"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Variation - Site Logo"
+msgstr "Variasi Footer - Logo Situs"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Hamburger Menu"
+msgstr "Variasi Header - Menu Hamburger"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Subheader"
+msgstr "Variasi Header - Subheader"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header Variation - Centered"
+msgstr "Variasi Header - Tengah"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Besar Sekali"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Spline Sans"
+msgstr "Spline Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Hanken Grotesk"
+msgstr "Hanken Grotesk"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Alt Latar Depan"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Alt Latar Belakang"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Latar Belakang Gelap"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Accent Secondary"
+msgstr "Aksen Sekunder"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Aksen"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Latar Depan"
+
+#: theme.json styles/charcoal.json styles/forest.json styles/violet.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Latar belakang"
+
+#: inc/patterns/templates/single-post-cover.php:18
+msgid "Single Post 3 (Cover)"
+msgstr "Pos Tunggal 3 (Kaver)"
+
+#: inc/patterns/templates/single-post-cover-boxed.php:18
+msgid "Single Post 2 (Cover Boxed)"
+msgstr "Pos Tunggal 2 (Kotak Kaver)"
+
+#: inc/patterns/templates/archive-list.php:18
+msgid "Archive List"
+msgstr "Daftar Arsip"
+
+#: inc/patterns/templates/archive-cover.php:18
+msgid "Archive (Cover)"
+msgstr "Arsip (Kaver)"
+
+#: inc/patterns/page_titles/page-title-1.php:18
+#: inc/patterns/page_titles/page-title-2.php:20
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: inc/patterns/loops/posts-4.php:16
+msgid "Posts 4"
+msgstr "Pos 4"
+
+#: inc/patterns/loops/posts-3.php:16
+msgid "Posts 3"
+msgstr "Pos 3"
+
+#: inc/patterns/loops/posts-2.php:16
+msgid "Posts 2"
+msgstr "Pos 2"
+
+#: inc/patterns/loops/posts-1.php:16
+msgid "Posts"
+msgstr "Pos"
+
+#: inc/patterns/layout/verse.php:18
+msgid "Verse"
+msgstr "Puisi"
+
+#: inc/patterns/layout/testimonial.php:18
+msgid "Testimonial"
+msgstr "Testimoni"
+
+#: inc/patterns/layout/sermons-2.php:18
+msgid "Sermons 2"
+msgstr "Khotbah 2"
+
+#: inc/patterns/layout/sermons-1.php:23
+msgid "Sermons"
+msgstr "Khotbah"
+
+#: inc/patterns/layout/ministries-2.php:22
+msgid "Ministries 2"
+msgstr "Pelayanan 2"
+
+#: inc/patterns/layout/ministries-1.php:22
+msgid "Ministries"
+msgstr "Pelayanan"
+
+#: inc/patterns/layout/hero-1.php:20
+msgid "Hero Section"
+msgstr "Bagian Hero"
+
+#: inc/patterns/layout/features-4.php:18
+msgid "Features 4"
+msgstr "Fitur 4"
+
+#: inc/patterns/layout/features-3.php:18
+msgid "Features 3"
+msgstr "Fitur 3"
+
+#: inc/patterns/layout/features-1.php:18 inc/patterns/layout/features-2.php:18
+msgid "Features"
+msgstr "Fitur"
+
+#: inc/patterns/layout/faq.php:18
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/patterns/layout/events.php:22
+msgid "Events"
+msgstr "Acara"
+
+#: inc/patterns/layout/cta-3.php:20
+msgid "Call to Action 3"
+msgstr "Call to Action 3"
+
+#: inc/patterns/layout/cta-2.php:20
+msgid "Call to Action 2"
+msgstr "Call to Action 2"
+
+#: inc/patterns/layout/cta-1.php:18
+msgid "Call to Action 1"
+msgstr "Call to Action 1"
+
+#: inc/patterns/layout/content-2.php:22
+msgid "Content 2"
+msgstr "Konten 2"
+
+#: inc/patterns/layout/content-1.php:20
+msgid "Content"
+msgstr "Konten"
+
+#: inc/patterns/layout/404.php:20
+msgid "404"
+msgstr "404"
+
+#: inc/Core.php:88
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: inc/Block_Patterns.php:68
+msgid "Full-page layouts that can be used as templates"
+msgstr "Tata letak halaman penuh yang dapat digunakan sebagai template"
+
+#: inc/Block_Patterns.php:67
+msgid "Church FSE Layouts"
+msgstr "Tata Letak Church FSE"
+
+#: inc/Block_Patterns.php:64
+msgid "Patterns for several sections and components"
+msgstr "Pola untuk ragam bagian dan komponen"
+
+#: inc/Block_Patterns.php:63
+msgid "Church FSE Patterns"
+msgstr "Pola Church FSE"
+
+#: inc/Admin.php:146
+msgid "WP Full Pay preview"
+msgstr "Pratinjau WP Full Pay"
+
+#: inc/Admin.php:138
+msgid "Learn More"
+msgstr "Pelajari Selengkapnya"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:133
+msgid "Install & Activate %s"
+msgstr "Instal & Aktifkan %s"
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:131
+msgid "Activate %s"
+msgstr "Aktifkan %s"
+
+#: inc/Admin.php:121
+msgid "One-time and recurring donations with customizable amounts"
+msgstr "Donasi satu kali dan berulang dengan jumlah yang dapat disesuaikan"
+
+#: inc/Admin.php:121
+msgid "Multiple payment options"
+msgstr "Berbagai opsi pembayaran"
+
+#: inc/Admin.php:120
+msgid "Connect to Stripe and create your first donation form in minutes"
+msgstr "Hubungkan ke Stripe dan buat formulir donasi pertama Anda dalam hitungan menit"
+
+#: inc/Admin.php:120
+msgid "Quick setup"
+msgstr "Penyiapan cepat"
+
+#: inc/Admin.php:119
+msgid "The simplest way to accept donations and payments on your WordPress site. Set up in minutes with no technical knowledge required."
+msgstr "Cara termudah untuk menerima donasi dan pembayaran di situs WordPress Anda. Siap dalam hitungan menit tanpa memerlukan pengetahuan teknis."
+
+#. translators: %s: WP Full Pay
+#: inc/Admin.php:115
+msgid "Start Collecting Funds with %s!"
+msgstr "Mulai Mengumpulkan Dana dengan %s!"
+
+#. translators: %s: 🎉 emoji
+#: inc/Admin.php:110
+msgid "Accept Donations on Your Church Site %s"
+msgstr "Terima Donasi di Situs Gereja Anda %s"
+
+#: inc/Admin.php:97
+msgid "Done"
+msgstr "Selesai"
+
+#: inc/Admin.php:96
+msgid "Installing"
+msgstr "Menginstal"
+
+#: inc/Admin.php:95
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Church FSE theme from source code. Please finish installation by running %s."
+msgstr "Anda tampaknya menjalankan tema Church FSE dari kode sumber. Mohon selesaikan instalasi dengan menjalankan %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "meningkatkan PHP ke versi terbaru"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Church FSE's minimal requirement is PHP%2$s."
+msgstr "Hei, kami perhatikan Anda menggunakan versi PHP yang sudah usang dan tidak didukung lagi. Pastikan situs Anda cepat dan aman dengan %1$s. Church FSE memerlukan minimal PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://github.com/Codeinwp/church-fse/"
+msgstr "https://github.com/Codeinwp/church-fse/"

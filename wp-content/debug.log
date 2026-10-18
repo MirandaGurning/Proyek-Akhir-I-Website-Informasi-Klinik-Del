@@ -1,0 +1,29 @@
+[15-May-2025 12:50:19 UTC] WordPress database error Got error 1877 "Unknown error" from storage engine InnoDB for query SELECT   wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (20)
+) AND wp_posts.post_type = 'kubio-globals' AND ((wp_posts.post_status = 'publish' OR wp_posts.post_status = 'draft'))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 10 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, kubio_get_editor_colors, kubio_get_global_data_content, kubio_global_data_post_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[15-May-2025 12:50:19 UTC] WordPress database error Index wp_posts is corrupted for query SELECT   wp_posts.ID
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'kubio-globals' AND ((wp_posts.post_status = 'publish' OR wp_posts.post_status = 'draft'))
+					 
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 10 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, kubio_get_editor_colors, kubio_get_global_data_content, kubio_global_data_post_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[15-May-2025 12:50:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_DIR_" in D:\Xampp\htdocs\wordpress\wp-content\plugins\kubio\lib\global-data.php:123
+Stack trace:
+#0 D:\Xampp\htdocs\wordpress\wp-content\plugins\kubio\lib\global-data.php(161): kubio_global_data_post_id()
+#1 D:\Xampp\htdocs\wordpress\wp-content\plugins\kubio\lib\global-data.php(414): kubio_get_global_data_content()
+#2 D:\Xampp\htdocs\wordpress\wp-content\plugins\kubio\lib\global-data.php(454): kubio_get_editor_colors(true)
+#3 D:\Xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('')
+#4 D:\Xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 D:\Xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 D:\Xampp\htdocs\wordpress\wp-settings.php(705): do_action('after_setup_the...')
+#7 D:\Xampp\htdocs\wordpress\wp-config.php(114): require_once('D:\\Xampp\\htdocs...')
+#8 D:\Xampp\htdocs\wordpress\wp-load.php(50): require_once('D:\\Xampp\\htdocs...')
+#9 D:\Xampp\htdocs\wordpress\wp-admin\admin.php(35): require_once('D:\\Xampp\\htdocs...')
+#10 D:\Xampp\htdocs\wordpress\wp-admin\index.php(10): require_once('D:\\Xampp\\htdocs...')
+#11 {main}
+  thrown in D:\Xampp\htdocs\wordpress\wp-content\plugins\kubio\lib\global-data.php on line 123
